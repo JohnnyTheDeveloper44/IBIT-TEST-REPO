@@ -1,0 +1,28 @@
+{
+  "name": "IBIT (Innovate Bitech) – IT Solutions Sierra Leone",
+  "short_name": "IBIT",
+  "description": "IBIT (Innovate Bitech) provides professional IT solutions in Sierra Leone including networking, server management, CCTV systems, and software development",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#0891b2",
+  "orientation": "any",
+  "scope": "/",
+  "id": "ibit-innovatebitech",
+  "lang": "en",
+  "categories": ["business", "technology", "utilities"],
+  "icons": [
+    {
+      "src": "/favicon.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}

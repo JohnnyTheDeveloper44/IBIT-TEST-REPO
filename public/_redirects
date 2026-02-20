@@ -1,0 +1,12 @@
+# Innovate Bitech Website Redirects
+# Compatible with Netlify and similar hosts
+
+# SPA fallback - send all routes to index.html
+/*    /index.html   200
+
+# WWW to non-WWW redirect (uncomment for production)
+# https://www.innovatebitech.com/*  https://innovatebitech.com/:splat  301!
+
+# Force HTTPS (uncomment for production)
+# http://innovatebitech.com/*  https://innovatebitech.com/:splat  301!
+# http://www.innovatebitech.com/*  https://innovatebitech.com/:splat  301!
